@@ -1,3 +1,2 @@
-// draft pull requests are in draft and needs additional Accept header
 // for more details see https://developer.github.com/v3/pulls
-curl -H "Authorization: token $gitauthtoken" -H "Accept: application/vnd.github.shadow-cat-preview" https://api.github.com/repos/plutora/c1/pulls
+curl -H "Authorization: token $gitauthtoken" https://api.github.com/repos/plutora/c1/pulls
