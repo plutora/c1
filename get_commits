@@ -1,2 +1,0 @@
-// returns text associated with each commit in message 
-curl -H "Authorization: token $gitauthtoken" https://api.github.com/repos/plutora/c1/commits
