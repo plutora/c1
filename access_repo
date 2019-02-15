@@ -1,0 +1,5 @@
+// Create developer token in user menu | Settings | Developer token
+curl -H "Authorization: token 9a732dd676c8bdd342b2136b69996fa13d9bfa2e" https://api.github.com
+
+// Returns a list of endpoints you can access
+ 
