@@ -1,2 +1,4 @@
 // for more details see https://developer.github.com/v3/pulls
 curl -H "Authorization: token $gitauthtoken" https://api.github.com/repos/plutora/c1/pulls
+
+// returns detail on pull request in body response - which could include JIRA URL
