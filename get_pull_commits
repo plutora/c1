@@ -1,1 +1,4 @@
-curl -H "Authorization: token $gitauthtoken" http://api.github.com/repos/plutora/c1/pulls/3/commits
+// issue HTTP call to get list of commits associated with a specific pull request
+// put the developer auth token in the header
+
+curl -H "Authorization: token $gitauthtoken" http://api.github.com/repos/plutora/c1/pulls/<pull request id>/commits
