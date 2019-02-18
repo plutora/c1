@@ -1,2 +1,4 @@
+// http request to endpoint for a specific commit
 // returns text associated with each commit in message 
-curl -H "Authorization: token $gitauthtoken" https://api.github.com/repos/plutora/c1/commits/fa1a5d2f248956cf93f34078d946eb7abddc4091
+// use commit id from a request for commits associated with a pull request
+curl -H "Authorization: token $gitauthtoken" https://api.github.com/repos/plutora/c1/commits/<commit id>
