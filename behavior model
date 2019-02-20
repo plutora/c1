@@ -1,0 +1,13 @@
+"groups": {
+"Custom_Group": "group(var1, var2)",
+"All_Categorical_plus_one_other": "group(ALL_CATEGORICAL, var2)"
+}
+"assignments": {
+"email_subject_lowercase": "lowercase(email_subject)",
+"email_subject_lowercase_ngram":"ngram(lowercase(email_subject), 2)"
+}
+"outputs": [
+"quantile_bin(age, 10) //quantile bin age",
+"age // explicitly include the original numeric variable along with the
+binned version"
+]
