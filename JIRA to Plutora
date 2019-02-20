@@ -2,3 +2,9 @@
 Reporter -> Raised By
 Summary -> Change Name
 Key -> JIRA ID
+
+Fixed mapping
+Type -> User Story
+Delivery Release -> External Identity Service R5
+Priority -> Medium Priority
+Delivery Risk -> Medium
