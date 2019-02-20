@@ -1,0 +1,4 @@
+// Field mapping for JIRA
+Reporter -> Raised By
+Summary -> Change Name
+Key -> JIRA ID
