@@ -1,0 +1,3 @@
+// check if user exists in Wealth
+// if they do then check challenge
+// if they fail then hand off to CSR
