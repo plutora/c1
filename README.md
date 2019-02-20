@@ -5,3 +5,4 @@
 // http access repo
 // http get pulls
 // http get pull commmits
+// jira to plutora mapping
