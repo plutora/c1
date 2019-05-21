@@ -1,4 +1,4 @@
-// Demo Plutora Pipelines Integration for Capital One
+// Demo Plutora Pipelines Integration 
 
 // nginx.conf
 // helloworld.js
